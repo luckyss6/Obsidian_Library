@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "fff7cd0599424eb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "837c3bb0bbe62c62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20a0d93dec779c15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58ed0c53f7d91983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Halo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb427167975c6fe9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1daddd6826e1b7ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2d2a6e27cb6d509",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ecd8b2ae24b6874",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8a1988a94d8aeb5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "07a35d51e61f94c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "28046af2a5a5851a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a19d0821da862d1d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Halo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fcfb727c2545fa54",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Halo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e089a31f4683f74",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d40db381dd10c7e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Halo.md"
+              }
+            }
+          },
+          {
+            "id": "6cdf120c70a8a900",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f72f3438724f954e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 873.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "58ed0c53f7d91983",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-06-21 15.46.19.excalidraw.md",
+    "Halo.md",
+    "Excalidraw",
+    "2024-06-21.md",
+    "未命名.canvas",
+    "未命名.md",
+    "README.md",
+    "INFO.md",
+    "Pasted image 20240517135516.png",
+    "IN_ENV.md",
+    "DB_INFO.md",
+    "Pasted image 20240517141942.png",
+    "Excalidraw/Drawing 2024-06-12 11.25.55.excalidraw.md",
+    "未命名 123.md",
+    "Excalidraw/Drawing 2024-05-20 15.35.23.excalidraw.md",
+    "Pasted image 20240517141400.png",
+    "Pasted image 20240517141235.png",
+    "Pasted image 20240517141300.png",
+    "Pasted image 20240517140657.png",
+    "Pasted image 20240517135840.png",
+    "Pasted image 20240517135811.png",
+    "Pasted image 20240517135650.png",
+    "Bookmarks/2024-04-22-raycast.md",
+    "Excalidraw/Drawing 2024-05-11 16.48.19.excalidraw.md",
+    "HONGKONG ROAD NAME.md",
+    "Excalidraw/Drawing 2024-05-11 16.15.33.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-29 17.10.02.excalidraw.md",
+    "AWS_SQS.md",
+    "VIM.md",
+    "JAVA.md",
+    "Pasted image 20240430100714.png",
+    "Bookmarks",
+    "ADD_FICO_LIST.md",
+    "123.md",
+    "craw_info.md",
+    "create sql.md",
+    "admin.md",
+    "RUBY.md",
+    "Admin.md"
+  ]
+}
