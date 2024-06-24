@@ -1,8 +1,4 @@
-# Obsidian_Library
-
 [toc]
->1
->>2
->>>3
 
-·
+1. [[Golang]]
+2. [[Mysql]]
