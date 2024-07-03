@@ -26,3 +26,6 @@
 	> 旁路缓存模式
 	
 LUCKY123!@#HELO
+
+grpcurl -d '{"id": 1234, "tags": ["foo","bar"]}' \
+    localhost:50051 my.custom.server.Service/Method
