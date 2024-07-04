@@ -29,3 +29,11 @@ LUCKY123!@#HELO
 
 grpcurl -d '{"id": 1234, "tags": ["foo","bar"]}' \
     localhost:50051 my.custom.server.Service/Method
+
+docker run --name test-api-gateway \
+ -v /example/apisix_conf/:/usr/local/apisix/conf/\
+ -v /example/apisix_log:/usr/local/apisix/logs  \
+ -p 9080:9080 \
+ -p 9091:9091  \
+ -p 9443:9443 \
+ -d apache/apisix
