@@ -26,4 +26,4 @@
 	> 旁路缓存模式
 	
 
-curl -sfL https://rancher-mirror.rancher.cn/k3s/k3s-install.sh | INSTALL_K3S_MIRROR=cn INSTALL_K3S_EXEC="--tls-san 101.33.209.40" sh -s -
+curl -sfL https://rancher-mirror.rancher.cn/k3s/k3s-install.sh | INSTALL_K3S_MIRROR=cn INSTALL_K3S_EXEC="--tls-san 101.33.209.40" sh -s - --docker
