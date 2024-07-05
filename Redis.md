@@ -25,20 +25,3 @@
 	> 数据库缓存一致性
 	> 旁路缓存模式
 	
-LUCKY123!@#HELO
-
-grpcurl -d '{"id": 1234, "tags": ["foo","bar"]}' \
-    localhost:50051 my.custom.server.Service/Method
-
-docker run --name test-api-gateway \
- -v /example/apisix_conf/:/usr/local/apisix/conf/\
- -v /example/apisix_log:/usr/local/apisix/logs  \
- -p 9080:9080 \
- -p 9091:9091  \
- -p 9443:9443 \
- -d apache/apisix
-
-
-K106e6cb5e739a416120b7e0e0056625860b836174eb24d60bb5e7969687fd7c609::server:eef055d501f7363f5a99f2b61f57f6e9
-
-curl -sfL https://rancher-mirror.rancher.cn/k3s/k3s-install.sh | INSTALL_K3S_MIRROR=cn K3S_URL=http://10.0.20.11:6443 K3S_TOKEN=K106e6cb5e739a416120b7e0e0056625860b836174eb24d60bb5e7969687fd7c609::server:eef055d501f7363f5a99f2b61f57f6e9 sh -
