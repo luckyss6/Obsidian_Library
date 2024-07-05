@@ -37,3 +37,8 @@ docker run --name test-api-gateway \
  -p 9091:9091  \
  -p 9443:9443 \
  -d apache/apisix
+
+
+K106e6cb5e739a416120b7e0e0056625860b836174eb24d60bb5e7969687fd7c609::server:eef055d501f7363f5a99f2b61f57f6e9
+
+curl -sfL https://rancher-mirror.rancher.cn/k3s/k3s-install.sh | INSTALL_K3S_MIRROR=cn K3S_URL=http://10.0.20.11:6443 K3S_TOKEN=K106e6cb5e739a416120b7e0e0056625860b836174eb24d60bb5e7969687fd7c609::server:eef055d501f7363f5a99f2b61f57f6e9 sh -
