@@ -29,3 +29,5 @@
 curl -sfL https://rancher-mirror.rancher.cn/k3s/k3s-install.sh | INSTALL_K3S_MIRROR=cn INSTALL_K3S_EXEC="--tls-san 139.199.192.95" sh -s - --docker
 
 curl -sfL https://rancher-mirror.rancher.cn/k3s/k3s-install.sh | INSTALL_K3S_MIRROR=cn K3S_URL=https://10.0.20.10:6443 K3S_TOKEN=K1032c61c9c4b49538154ff93fd618a04eaefca3ceb0e488acd1d5f16164eea9781::server:5548c06481292bf42bfc45cd9d1e1cd6 sh -s - --docker
+
+kubectl label node salve kubernetes.io/role=worker
